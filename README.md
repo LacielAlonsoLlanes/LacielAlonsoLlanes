@@ -3,8 +3,7 @@
 - 🔭 Ph.D. in Physics and Earth Sciences
 - ❤️ In love with research and learning
 - 🤖 Robotics enthusiast
-- :computer: Self-taught computer scientist
-- 🌱 Currently doing a Postdoc
+- :computer: Self-taught computer scientis
 - 👯 I’m always available to collaborate
 
 I'm familiar with:
