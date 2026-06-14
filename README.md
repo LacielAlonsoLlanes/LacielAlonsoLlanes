@@ -8,11 +8,11 @@
 
 I'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,raspberrypi,py,opencv,matlab,latex,git,linux,ubuntu,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,raspberrypi,py,opencv,matlab,latex,git,linux,ubuntu,bash,docker,postgres,odoo)](https://skillicons.dev)
 
 I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,postgres,odoo)](https://skillicons.dev)
+So many things to get listed...
 
 
 ---
